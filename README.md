@@ -1,6 +1,6 @@
 # Filters
-Image filters using C.
-Also attaching some outputs of the code. 
+Image filters using C. <br/>
+Also attaching some outputs of the code. <br/>
 
 
 ![greyscale](https://github.com/gorkarishuv/Filters/blob/main/out.bmp)
